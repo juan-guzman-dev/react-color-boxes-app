@@ -1,0 +1,13 @@
+.Box {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  display: flex;
+  align-items: center; /* Vertical center alignment */
+  justify-content: center; /* Horizontal center alignment */
+  font-weight: bolder;
+  border-style: solid;
+  border-width: 2px;
+  border-color:black;
+  -webkit-text-stroke: 1px blueviolet; /* width and color */
+}
