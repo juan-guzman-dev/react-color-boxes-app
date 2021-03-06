@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-color-boxes-app/static/css/main.8040eab3.chunk.css",
+    "main.js": "/react-color-boxes-app/static/js/main.c6322017.chunk.js",
+    "main.js.map": "/react-color-boxes-app/static/js/main.c6322017.chunk.js.map",
+    "runtime-main.js": "/react-color-boxes-app/static/js/runtime-main.89bc451e.js",
+    "runtime-main.js.map": "/react-color-boxes-app/static/js/runtime-main.89bc451e.js.map",
+    "static/js/2.7503faa0.chunk.js": "/react-color-boxes-app/static/js/2.7503faa0.chunk.js",
+    "static/js/2.7503faa0.chunk.js.map": "/react-color-boxes-app/static/js/2.7503faa0.chunk.js.map",
+    "static/js/3.11ee7fc9.chunk.js": "/react-color-boxes-app/static/js/3.11ee7fc9.chunk.js",
+    "static/js/3.11ee7fc9.chunk.js.map": "/react-color-boxes-app/static/js/3.11ee7fc9.chunk.js.map",
+    "index.html": "/react-color-boxes-app/index.html",
+    "static/css/main.8040eab3.chunk.css.map": "/react-color-boxes-app/static/css/main.8040eab3.chunk.css.map",
+    "static/js/2.7503faa0.chunk.js.LICENSE.txt": "/react-color-boxes-app/static/js/2.7503faa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89bc451e.js",
+    "static/js/2.7503faa0.chunk.js",
+    "static/css/main.8040eab3.chunk.css",
+    "static/js/main.c6322017.chunk.js"
+  ]
+}
